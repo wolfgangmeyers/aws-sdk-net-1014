@@ -12,8 +12,8 @@ namespace TestS3Client2
     {
         static void Main(string[] args)
         {
-            // TestS3();
-            TestDynamoDB();
+            TestS3();
+            // TestDynamoDB();
         }
 
         private static void TestDynamoDB()
